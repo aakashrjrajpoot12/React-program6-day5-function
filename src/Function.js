@@ -8,7 +8,7 @@ export default function Function(props) {
    </>);
  
 }
-//export default React.memo(FunctionMemo);
 //export default Function;
+//export default React.memo(FunctionMemo);
 //React.Memo()
 
